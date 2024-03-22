@@ -59,6 +59,7 @@ public class HotelAppLoginList {
 	public void i_am_logged_in_successfully() {
 		String name="Hello vasuvespag!";
 	    Assert.assertEquals(name, "Hello vasuvespag!");
+		System.out.println("My java");
 	}
 	
 
