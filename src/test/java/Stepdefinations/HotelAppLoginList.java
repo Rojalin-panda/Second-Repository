@@ -60,6 +60,7 @@ public class HotelAppLoginList {
 		String name="Hello vasuvespag!";
 	    Assert.assertEquals(name, "Hello vasuvespag!");
 		System.out.println("My java");
+		System.out.println("My java");
 	}
 	
 
